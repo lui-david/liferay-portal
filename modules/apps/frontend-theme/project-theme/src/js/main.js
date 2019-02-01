@@ -8,3 +8,13 @@ AUI().ready(
 		}
 	}
 );
+
+$(document).ready(function() {
+     
+    $(".search").click(function() {
+       $(".search-box").toggle();
+       $("input[type='text']").focus();
+    });
+
+}
+);
