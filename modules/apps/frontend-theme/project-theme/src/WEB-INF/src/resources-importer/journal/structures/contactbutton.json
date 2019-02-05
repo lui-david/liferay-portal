@@ -6,7 +6,7 @@
     "fields": [
         {
             "label": {
-                "en_US": "content"
+                "en_US": "button text"
             },
             "predefinedValue": {
                 "en_US": ""
@@ -17,16 +17,15 @@
             "tip": {
                 "en_US": ""
             },
-            "dataType": "html",
-            "fieldNamespace": "ddm",
-            "indexType": "text",
+            "dataType": "string",
+            "indexType": "keyword",
             "localizable": true,
-            "name": "content",
+            "name": "buttonText",
             "readOnly": false,
             "repeatable": false,
             "required": false,
             "showLabel": true,
-            "type": "ddm-text-html"
+            "type": "text"
         }
     ]
 }

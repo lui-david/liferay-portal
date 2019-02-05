@@ -6,7 +6,7 @@
     "fields": [
         {
             "label": {
-                "en_US": "HTML"
+                "en_US": "carousel-image-1"
             },
             "predefinedValue": {
                 "en_US": ""
@@ -17,20 +17,20 @@
             "tip": {
                 "en_US": ""
             },
-            "dataType": "html",
+            "dataType": "image",
             "fieldNamespace": "ddm",
             "indexType": "text",
             "localizable": true,
-            "name": "HTMLf9w1",
+            "name": "Image93es",
             "readOnly": false,
             "repeatable": false,
             "required": false,
             "showLabel": true,
-            "type": "ddm-text-html"
+            "type": "ddm-image"
         },
         {
             "label": {
-                "en_US": "Text"
+                "en_US": "carousel-heading-1"
             },
             "predefinedValue": {
                 "en_US": ""
@@ -44,7 +44,7 @@
             "dataType": "string",
             "indexType": "keyword",
             "localizable": true,
-            "name": "Textet19",
+            "name": "Text1uw6",
             "readOnly": false,
             "repeatable": false,
             "required": false,
@@ -53,7 +53,7 @@
         },
         {
             "label": {
-                "en_US": "Text Box"
+                "en_US": "carousel-text-1"
             },
             "predefinedValue": {
                 "en_US": ""
@@ -67,7 +67,7 @@
             "dataType": "string",
             "indexType": "text",
             "localizable": true,
-            "name": "TextBoxfycv",
+            "name": "TextBoxfdjj",
             "readOnly": false,
             "repeatable": false,
             "required": false,
@@ -76,7 +76,7 @@
         },
         {
             "label": {
-                "en_US": "Link to Page"
+                "en_US": "carousel-image-2"
             },
             "predefinedValue": {
                 "en_US": ""
@@ -87,44 +87,20 @@
             "tip": {
                 "en_US": ""
             },
-            "dataType": "link-to-page",
-            "fieldNamespace": "ddm",
-            "indexType": "keyword",
-            "localizable": true,
-            "name": "LinkToPagedey4",
-            "readOnly": false,
-            "repeatable": false,
-            "required": false,
-            "showLabel": true,
-            "type": "ddm-link-to-page"
-        },
-        {
-            "label": {
-                "en_US": "HTML"
-            },
-            "predefinedValue": {
-                "en_US": ""
-            },
-            "style": {
-                "en_US": ""
-            },
-            "tip": {
-                "en_US": ""
-            },
-            "dataType": "html",
+            "dataType": "image",
             "fieldNamespace": "ddm",
             "indexType": "text",
             "localizable": true,
-            "name": "HTML95zk",
+            "name": "Imageb0mg",
             "readOnly": false,
             "repeatable": false,
             "required": false,
             "showLabel": true,
-            "type": "ddm-text-html"
+            "type": "ddm-image"
         },
         {
             "label": {
-                "en_US": "Text"
+                "en_US": "carousel-heading-2"
             },
             "predefinedValue": {
                 "en_US": ""
@@ -138,7 +114,7 @@
             "dataType": "string",
             "indexType": "keyword",
             "localizable": true,
-            "name": "Text391r",
+            "name": "Text76sl",
             "readOnly": false,
             "repeatable": false,
             "required": false,
@@ -147,7 +123,7 @@
         },
         {
             "label": {
-                "en_US": "Text Box"
+                "en_US": "carousel-text-2"
             },
             "predefinedValue": {
                 "en_US": ""
@@ -161,7 +137,7 @@
             "dataType": "string",
             "indexType": "text",
             "localizable": true,
-            "name": "TextBoxdk43",
+            "name": "TextBoxf5ho",
             "readOnly": false,
             "repeatable": false,
             "required": false,
@@ -170,7 +146,7 @@
         },
         {
             "label": {
-                "en_US": "Link to Page"
+                "en_US": "carousel-image-3"
             },
             "predefinedValue": {
                 "en_US": ""
@@ -181,44 +157,20 @@
             "tip": {
                 "en_US": ""
             },
-            "dataType": "link-to-page",
-            "fieldNamespace": "ddm",
-            "indexType": "keyword",
-            "localizable": true,
-            "name": "LinkToPagejhun",
-            "readOnly": false,
-            "repeatable": false,
-            "required": false,
-            "showLabel": true,
-            "type": "ddm-link-to-page"
-        },
-        {
-            "label": {
-                "en_US": "HTML"
-            },
-            "predefinedValue": {
-                "en_US": ""
-            },
-            "style": {
-                "en_US": ""
-            },
-            "tip": {
-                "en_US": ""
-            },
-            "dataType": "html",
+            "dataType": "image",
             "fieldNamespace": "ddm",
             "indexType": "text",
             "localizable": true,
-            "name": "HTML15q1",
+            "name": "Image58t6",
             "readOnly": false,
             "repeatable": false,
             "required": false,
             "showLabel": true,
-            "type": "ddm-text-html"
+            "type": "ddm-image"
         },
         {
             "label": {
-                "en_US": "Text"
+                "en_US": "carousel-heading-3"
             },
             "predefinedValue": {
                 "en_US": ""
@@ -232,7 +184,7 @@
             "dataType": "string",
             "indexType": "keyword",
             "localizable": true,
-            "name": "Textc4ua",
+            "name": "Textc4iy",
             "readOnly": false,
             "repeatable": false,
             "required": false,
@@ -241,7 +193,7 @@
         },
         {
             "label": {
-                "en_US": "Text Box"
+                "en_US": "carousel-text-3"
             },
             "predefinedValue": {
                 "en_US": ""
@@ -255,7 +207,7 @@
             "dataType": "string",
             "indexType": "text",
             "localizable": true,
-            "name": "TextBoxj0eg",
+            "name": "TextBox97h9",
             "readOnly": false,
             "repeatable": false,
             "required": false,
@@ -264,7 +216,7 @@
         },
         {
             "label": {
-                "en_US": "Link to Page"
+                "en_US": "carousel-image-4"
             },
             "predefinedValue": {
                 "en_US": ""
@@ -275,16 +227,62 @@
             "tip": {
                 "en_US": ""
             },
-            "dataType": "link-to-page",
+            "dataType": "image",
             "fieldNamespace": "ddm",
-            "indexType": "keyword",
+            "indexType": "text",
             "localizable": true,
-            "name": "LinkToPage8gpl",
+            "name": "Image69up",
             "readOnly": false,
             "repeatable": false,
             "required": false,
             "showLabel": true,
-            "type": "ddm-link-to-page"
+            "type": "ddm-image"
+        },
+        {
+            "label": {
+                "en_US": "carousel-heading-4"
+            },
+            "predefinedValue": {
+                "en_US": ""
+            },
+            "style": {
+                "en_US": ""
+            },
+            "tip": {
+                "en_US": ""
+            },
+            "dataType": "string",
+            "indexType": "keyword",
+            "localizable": true,
+            "name": "Text9jrx",
+            "readOnly": false,
+            "repeatable": false,
+            "required": false,
+            "showLabel": true,
+            "type": "text"
+        },
+        {
+            "label": {
+                "en_US": "carousel-text-4"
+            },
+            "predefinedValue": {
+                "en_US": ""
+            },
+            "style": {
+                "en_US": ""
+            },
+            "tip": {
+                "en_US": ""
+            },
+            "dataType": "string",
+            "indexType": "text",
+            "localizable": true,
+            "name": "TextBox5h5e",
+            "readOnly": false,
+            "repeatable": false,
+            "required": false,
+            "showLabel": true,
+            "type": "textarea"
         }
     ]
 }
