@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="SiteName" type="text" index-type="keyword" instance-id="kihi">
+		<dynamic-content language-id="en_US"><![CDATA[Liferay]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="SiteDescription" type="text_box" index-type="text" instance-id="piwc">
+		<dynamic-content language-id="en_US"><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec mollis. Quisque convallis libero in sapien pharetra tincidunt.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="LinkHeader1" type="text" index-type="keyword" instance-id="orqu">
+		<dynamic-element name="LinkTextForHeader1" instance-id="eegj" type="text" index-type="keyword">
+			<dynamic-element name="LinkForHeader1" instance-id="uprw" type="text" index-type="keyword">
+				<dynamic-content language-id="en_US"><![CDATA[http://google.com]]></dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="en_US"><![CDATA[Google]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="LinkTextForHeader1" type="text" index-type="keyword" instance-id="lyfs">
+			<dynamic-element name="LinkForHeader1" instance-id="ffrv" type="text" index-type="keyword">
+				<dynamic-content language-id="en_US"><![CDATA[http://google.com]]></dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="en_US"><![CDATA[Google]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content language-id="en_US"><![CDATA[Important Links]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="LinkHeader2" type="text" index-type="keyword" instance-id="vdrc">
+		<dynamic-element name="LinkTextForHeader2" instance-id="qzce" type="text" index-type="keyword">
+			<dynamic-element name="LinkForHeader2" instance-id="tyxd" type="text" index-type="keyword">
+				<dynamic-content language-id="en_US"><![CDATA[http://google.com]]></dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="en_US"><![CDATA[Google]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-element name="LinkTextForHeader2" type="text" index-type="keyword" instance-id="ykar">
+			<dynamic-element name="LinkForHeader2" instance-id="jder" type="text" index-type="keyword">
+				<dynamic-content language-id="en_US"><![CDATA[http://google.com]]></dynamic-content>
+			</dynamic-element>
+			<dynamic-content language-id="en_US"><![CDATA[Google]]></dynamic-content>
+		</dynamic-element>
+		<dynamic-content language-id="en_US"><![CDATA[Recent Posts]]></dynamic-content>
+	</dynamic-element>
+</root>

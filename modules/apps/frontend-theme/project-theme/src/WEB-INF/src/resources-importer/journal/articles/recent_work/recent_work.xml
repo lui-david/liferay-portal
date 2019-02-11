@@ -1,0 +1,44 @@
+
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="HeadingText" type="text" index-type="keyword" instance-id="aajd">
+		<dynamic-content language-id="en_US"><![CDATA[Recent Work]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="ProjectImage1" type="image" index-type="text" instance-id="ondm">
+		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"20126","name":"work_1.jpg","alt":"","title":"work_1.jpg","type":"document","uuid":"4ff0fba8-0ef9-92e9-df01-daab5c58ad68","fileEntryId":"125298","resourcePrimKey":"72748"}]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="TitleOfProject11" type="text" index-type="keyword" instance-id="bdog">
+		<dynamic-content language-id="en_US"><![CDATA[Project 1]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Project1Description" type="text_box" index-type="text" instance-id="enpq">
+		<dynamic-content language-id="en_US"><![CDATA[This is the paragraph description for project 1.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="ProjectImage2" type="image" index-type="text" instance-id="krmd">
+		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"20126","name":"work_2.jpg","alt":"","title":"work_2.jpg","type":"document","uuid":"322589e4-5735-dade-898a-0f0801388d7d","fileEntryId":"125310","resourcePrimKey":"72748"}]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="TitleOfProject2" type="text" index-type="keyword" instance-id="ylfj">
+		<dynamic-content language-id="en_US"><![CDATA[Project 2]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Project2Description" type="text_box" index-type="text" instance-id="ieoe">
+		<dynamic-content language-id="en_US"><![CDATA[This is the paragraph description for project 2.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="ProjectImage3" type="image" index-type="text" instance-id="fqef">
+		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"20126","name":"work_3.jpg","alt":"","title":"work_3.jpg","type":"document","uuid":"45490e0b-379f-8409-08c7-58c55a76761a","fileEntryId":"125322","resourcePrimKey":"72748"}]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="TitleOfProject3" type="text" index-type="keyword" instance-id="stux">
+		<dynamic-content language-id="en_US"><![CDATA[Project 3]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Project3Description" type="text_box" index-type="text" instance-id="drox">
+		<dynamic-content language-id="en_US"><![CDATA[This is the paragraph description for project 3.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="ProjectImage4" type="image" index-type="text" instance-id="fnxi">
+		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"20126","name":"work_4.jpg","alt":"","title":"work_4.jpg","type":"document","uuid":"33243e4c-2f89-0a28-2fbc-91a61b782ef6","fileEntryId":"125334","resourcePrimKey":"72748"}]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="TitleOfProject4" type="text" index-type="keyword" instance-id="ecem">
+		<dynamic-content language-id="en_US"><![CDATA[Project 4]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="Project4Description" type="text_box" index-type="text" instance-id="bayl">
+		<dynamic-content language-id="en_US"><![CDATA[This is the paragraph description for project 4.]]></dynamic-content>
+	</dynamic-element>
+</root>
