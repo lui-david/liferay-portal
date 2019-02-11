@@ -43,15 +43,12 @@
 				</div>
 			</div>
 
-			<#--  SITE LOGO AND NAME  -->
 			<div class="mb-4 nav-flex">
 				<@liferay.user_personal_bar />
 				<a class="${logo_css_class} align-items-center d-md-inline-flex d-none d-sm-none logo-md" href="${site_default_url}" title="<@liferay.language_format arguments="" key="go-to-x" />">
 					<img alt="${logo_description}" class="mr-2" height="56" src="${site_logo}" />
 				</a>
-				<#--  SITE LOGO AND NAME END  -->
 
-				<#--  NAVIGATION  -->
 				<div class="navbar navbar-classic navbar-expand-lg navbar-light">
 					<div class="container">
 						<a class="${logo_css_class} d-inline-flex d-md-none logo-xs" href="${site_default_url}" rel="nofollow">
@@ -63,7 +60,7 @@
 					</div>
 				</div>
 			</div>
-			<#--  NAVIGATION END  -->
+			
 		<#if show_header_search>
 			<div class="search-margin" role="search">
 				<@liferay.search_bar default_preferences="${preferences}" />
@@ -89,7 +86,6 @@
 	</section>
 
 	<#if show_footer>
-			<!-- FOOTER -->
 
 		<footer class="footer-wrapper">
 

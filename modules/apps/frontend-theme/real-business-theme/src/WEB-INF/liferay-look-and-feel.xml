@@ -11,7 +11,6 @@
 			<setting configurable="true" key="show-footer" type="checkbox" value="true" />
 			<setting configurable="true" key="show-header" type="checkbox" value="true" />
 			<setting configurable="true" key="show-header-search" type="checkbox" value="true" />
-			<setting configurable="true" key="show-maximize-minimize-application-links" type="checkbox" value="false" />
 			<setting configurable="true" key="wrap-content" type="checkbox" value="false" />
 			<setting configurable="true" key="site-description" type="text" value="Only think about one thing at a time. Don't get greedy. Take your time. Speed will come later. Let's build some happy little clouds up here. What the devil. Maybe he has a little friend that lives right over here." />
 			<setting configurable="true" key="show-facebook" type="checkbox" value="true" />
