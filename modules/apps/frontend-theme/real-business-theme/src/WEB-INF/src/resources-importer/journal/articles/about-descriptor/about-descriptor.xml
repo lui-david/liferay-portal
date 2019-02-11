@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<root available-locales="en_US" default-locale="en_US">
+	<dynamic-element name="AboutUsTitle" type="text" index-type="keyword" instance-id="ciwm">
+		<dynamic-content language-id="en_US"><![CDATA[About Us]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="AboutUsDescription1" type="text_box" index-type="text" instance-id="gfrk">
+		<dynamic-content language-id="en_US"><![CDATA[Now we don't want him to get lonely, so we'll give him a little friend. For the lack of a better word I call them hangy downs. Just let go - and fall like a little waterfall. You're the greatest thing that has ever been or ever will be. You're special. You're so very special. That's what makes life fun. That you can make these decisions. That you can create the world that you want.]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="AboutUsImage" type="image" index-type="text" instance-id="skjq">
+		<dynamic-content language-id="en_US"><![CDATA[{"groupId":"20126","name":"about-1-1.jpg","alt":"","title":"about-1-1.jpg","type":"document","uuid":"71bf75fe-7f85-9531-64ce-c8eb2744e3e5","fileEntryId":"40323","resourcePrimKey":"41340"}]]></dynamic-content>
+	</dynamic-element>
+	<dynamic-element name="AboutUsLink" type="link_to_layout" index-type="keyword" instance-id="hkkx">
+		<dynamic-content language-id="en_US"><![CDATA[10@public@20126]]></dynamic-content>
+	</dynamic-element>
+</root>
