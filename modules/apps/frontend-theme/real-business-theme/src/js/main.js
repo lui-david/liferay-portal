@@ -12,46 +12,48 @@ AUI().ready(
 // STICKY NAV
 
 function stickyNav() {
-  let themeNavigationBar = document.getElementById('banner');
-  let sticky = themeNavigationBar.offsetTop;
-  if (window.pageYOffset > sticky) {
-    themeNavigationBar.classList.add('sticky');
-  }
-  else {
-    themeNavigationBar.classList.remove('sticky');
-  }
+	let themeNavigationBar = document.getElementById('banner');
+
+	let sticky = themeNavigationBar.offsetTop;
+
+	if (window.pageYOffset > sticky) {
+		themeNavigationBar.classList.add('sticky');
+	}
+	else {
+		themeNavigationBar.classList.remove('sticky');
+	}
 }
 
 window.onscroll = function() {
-  stickyNav();
+	stickyNav();
 };
 
 // STICKY NAV END
 
 // BREAK FUNCTION
 
-  var customUnorderedList = document.getElementById('footer-count'); 
-  var customListItems = customUnorderedList.getElementsByTagName('li');
-  
-  if (customListItems.length > 4) {
-    customUnorderedList.classList.add('my-wrap');
-  }
+var customUnorderedList = document.getElementById('footer-count');
 
+var customListItems = customUnorderedList.getElementsByTagName('li');
+
+if (customListItems.length > 4) {
+	customUnorderedList.classList.add('my-wrap');
+}
 
 // BREAK FUNCTION END
 
 // ALLOY TOOLTIP
 
 YUI().use(
-  'aui-tooltip',
-  function(Y) {
-    new Y.TooltipDelegate(
-      {
-        trigger: '#footer-count li',
-        position: 'bottom'
-      }
-    );
-  }
+	'aui-tooltip',
+	function(Y) {
+		new Y.TooltipDelegate(
+			{
+				position: 'bottom',
+				trigger: '#footer-count li'
+			}
+		);
+	}
 );
 
 // ALLOY TOOLTIP END
